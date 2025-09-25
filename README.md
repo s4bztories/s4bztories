@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/s4bztories/s4bztories/blob/main/banner.png" alt="Sab | Cybersecurity Student | Ethical Hacker | UI/UX Enthusiast">
